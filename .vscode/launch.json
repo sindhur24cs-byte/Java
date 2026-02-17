@@ -2,6 +2,27 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "p4",
+      "request": "launch",
+      "mainClass": "p4",
+      "projectName": "Java-1_d8b105de"
+    },
+    {
+      "type": "java",
+      "name": "P9",
+      "request": "launch",
+      "mainClass": "P9",
+      "projectName": "Java-1_d8b105de"
+    },
+    {
+      "type": "java",
+      "name": "P11",
+      "request": "launch",
+      "mainClass": "P11",
+      "projectName": "Java-1_d8b105de"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
